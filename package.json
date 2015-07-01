@@ -1,0 +1,25 @@
+{
+  "name": "apitester",
+  "version": "0.0.1",
+  "description": "nodeserver for test restAPI and fault-tolerant",
+  "dependencies": {
+    "web-node-server": "0.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:younger/apitester.git"
+  },
+  "keywords": [
+    "younger"
+  ],
+  "author": "younger@blog.timehub.cc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/younger/apitester/issues"
+  },
+  "homepage": "https://github.com/younger/apitester"
+}
